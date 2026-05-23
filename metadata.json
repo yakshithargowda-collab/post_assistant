@@ -1,0 +1,6 @@
+{
+  "name": "AI Virtual Post Assistant",
+  "description": "An enterprise-grade postal automation, online token system, parcel tracking, and smart virtual AI post assistant designed to eliminate wait queues and digitize postal services.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
